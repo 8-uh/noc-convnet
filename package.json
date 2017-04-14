@@ -1,0 +1,12 @@
+{
+  "name": "noc-convnet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "dependencies": {
+    "serve": "^5.1.4"
+  }
+}
